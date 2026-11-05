@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc-swe-01",
+    "jobRole": "Software Developer",
+    "category": "technical-skills",
+    "source": "Tech Hiring Standards - Software Engineering 2026",
+    "title": "Core Technical Skills and Tooling for Software Developers",
+    "content": "A proficient Software Developer is expected to demonstrate mastery in one or more core programming languages such as Java, Python, C++, Go, or C#. Key computer science fundamentals include data structures (arrays, trees, graphs, hash maps, heaps), algorithms (sorting, searching, dynamic programming, graph traversal), time and space complexity analysis (Big-O notation), and object-oriented design patterns (Factory, Singleton, Observer, Strategy). Familiarity with version control using Git, branching workflows, pull requests, and code reviews is mandatory. Developers must also understand unit testing and integration testing using frameworks like JUnit, pytest, Jest, or Mockito, alongside CI/CD pipelines (GitHub Actions, Jenkins, GitLab CI). Experience with Linux/Unix environments, containerization via Docker, and relational databases (PostgreSQL, MySQL) or NoSQL databases is required for modern engineering workflows."
+  },
+  {
+    "id": "doc-swe-02",
+    "jobRole": "Software Developer",
+    "category": "job-requirements",
+    "source": "Software Engineering Role Competencies & Requirements",
+    "title": "Technical Job Requirements for Software Developers",
+    "content": "Professional software developer job descriptions mandate hands-on experience in building scalable, reliable, and maintainable software systems. Candidates must demonstrate proficiency in designing clean RESTful or gRPC APIs, modular system architectures, and robust exception handling. Essential requirements include designing database schemas, writing optimized SQL queries, indexing, and handling concurrency and multithreading safely. Practical experience collaborating with cross-functional teams in Agile/Scrum environments, managing Jira/Kanban boards, and contributing to technical specification documents is standard. Candidates should showcase end-to-end project lifecycles from architecture design and test-driven development to deployment, monitoring, and production bug triage."
+  },
+  {
+    "id": "doc-swe-03",
+    "jobRole": "Software Developer",
+    "category": "industry-expectations",
+    "source": "Global Software Engineering Industry Benchmarks",
+    "title": "Industry Expectations for Software Developers",
+    "content": "Industry expectations for software developers emphasize problem-solving abilities, clean code principles (SOLID, DRY, KISS), and clear technical communication. Top tech employers expect engineers to write self-documenting code, perform rigorous peer code reviews, and proactively reduce technical debt. In production systems, developers must know how to trace logs, instrument metrics using Prometheus, Datadog, or OpenTelemetry, and participate in blameless post-mortems for incidents. Furthermore, developers are evaluated on their capacity to quickly learn new domain languages, adapt to changing tech stacks, and balance speed of delivery with system security and architectural scalability."
+  }
+]
+

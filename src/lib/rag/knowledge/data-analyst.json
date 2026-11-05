@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc-da-01",
+    "jobRole": "Data Analyst",
+    "category": "technical-skills",
+    "source": "Data Analytics Competency & Skills Framework 2026",
+    "title": "Core Technical Skills, Tooling, and Languages for Data Analysts",
+    "content": "Data Analysts must possess advanced proficiency in SQL (window functions, CTEs, subqueries, query optimization, indexing) for complex relational and data warehouse querying. Programming skills focus on Python (pandas, NumPy, SciPy) or R for statistical computing, data cleaning, exploratory data analysis (EDA), and automated reporting. Business intelligence and data visualization mastery is mandatory in Tableau, Power BI, Looker, or Metabase. Analysts must understand data warehousing architectures (Snowflake, BigQuery, Amazon Redshift), ETL/ELT pipelines, and data modeling concepts (star schema, snowflake schema). Advanced Excel/Google Sheets skills including Power Query, Pivot Tables, and VBA/macros remain an industry staple."
+  },
+  {
+    "id": "doc-da-02",
+    "jobRole": "Data Analyst",
+    "category": "job-requirements",
+    "source": "Data Analyst Job Requirements & Analytical Methods",
+    "title": "Technical Job Requirements for Data Analysts",
+    "content": "Data Analyst roles demand demonstrated ability to extract actionable insights from large, messy, unstructured datasets to solve business problems. Core requirements include designing and evaluating A/B tests, hypothesis testing (p-values, confidence intervals, t-tests, ANOVA), customer segmentation (RFM, cohort analysis), funnel conversion analysis, and regression modeling. Candidates must formulate business metrics and KPIs (CAC, LTV, churn rate, retention rate), build executive-ready dashboards, automate recurring stakeholder reports, and communicate technical conclusions effectively to non-technical business leaders."
+  },
+  {
+    "id": "doc-da-03",
+    "jobRole": "Data Analyst",
+    "category": "industry-expectations",
+    "source": "Business Intelligence & Data Analytics Industry Standards",
+    "title": "Industry Expectations for Data Analysts",
+    "content": "Modern industry expectations for Data Analysts emphasize business acumen, storytelling with data, and direct revenue or efficiency impact. Employers look for candidates who don't just generate reports, but actively identify revenue opportunities, cost leaks, or operational bottlenecks. Standout resume bullet points quantify business impact, such as: 'constructed an automated churn prediction dashboard in Tableau and SQL that flagged 15% at-risk enterprise accounts, saving $320K in ARR' or 'conducted A/B test analysis on checkout funnel resulting in a 4.2% increase in checkout conversion'."
+  }
+]
+

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc-ats-01",
+    "jobRole": "General",
+    "category": "ats-guidelines",
+    "source": "Modern ATS Parsing & Resume Optimization Guide 2026",
+    "title": "ATS-Friendly Resume Guidelines and Formatting Best Practices",
+    "content": "Applicant Tracking Systems (ATS) like Workday, Greenhouse, Lever, and Taleo parse candidate resumes into structured database fields. To ensure seamless parsing, resumes must utilize a single-column, standard layout with clear, universal headings: 'Professional Experience', 'Technical Skills', 'Education', 'Projects', and 'Summary'. Avoid multi-column layouts, tables, text boxes, graphics, icons, or headers/footers containing essential contact information, as parsers frequently skip or scramble them. Use standard, machine-readable fonts (Inter, Arial, Calibri, Roboto) and submit documents in standard PDF or DOCX formats. Crucially, resumes must incorporate exact technical keywords and skill names matching the target job description (e.g., 'TypeScript', 'React', 'PostgreSQL', 'Docker', 'A/B Testing') in context within bullet points and skills sections without keyword stuffing."
+  },
+  {
+    "id": "doc-eval-01",
+    "jobRole": "General",
+    "category": "evaluation-criteria",
+    "source": "Recruiter & Engineering Hiring Manager Evaluation Criteria",
+    "title": "Resume Evaluation Criteria & Impact Scoring",
+    "content": "Recruiters and hiring managers spend an average of 6 to 10 seconds on an initial resume review. Key evaluation criteria include: 1) Job Alignment: Immediate match between stated target role and candidate's core technologies and experience. 2) Impact & Quantification: High-scoring bullet points employ the XYZ or STAR formula ('Accomplished [X] as measured by [Y] by doing [Z]'), specifying percentages, latency reductions, user scale, dollar values, or efficiency gains rather than passive task listings. 3) Technical Depth & Recency: Modern tech stacks and clear evidence of architectural decision-making. 4) Clarity and Conciseness: Reverse-chronological timeline, elimination of fluff and buzzwords, no spelling/grammatical errors, and consistent date formatting (Month Year - Month Year). 5) Missing Skills Identification: Flagging critical gaps between the candidate's stated background and industry-standard requirements for the target role."
+  },
+  {
+    "id": "doc-summary-01",
+    "jobRole": "General",
+    "category": "summary-writing",
+    "source": "Executive Career Coach Resume Summary Writing Standards",
+    "title": "Professional Summary Writing Guidelines",
+    "content": "A compelling professional summary should be 2 to 4 concise, high-impact sentences positioned at the top of the resume. It must immediately communicate: 1) Professional Identity & Years of Experience (e.g., 'Results-driven Full Stack Engineer with 4+ years of experience...'). 2) Core Technical Specialization & Stack (e.g., 'specializing in scalable distributed systems using Node.js, Go, TypeScript, and AWS cloud architectures'). 3) Proven Business Impact or Signature Achievement (e.g., 'Track record of architecting high-throughput microservices handling 20M+ monthly requests with 99.99% availability'). 4) Professional Focus or Value Proposition for the target role. Avoid vague clichés like 'hard worker', 'detail-oriented', 'seeking an entry-level position to utilize skills', or unsubstantiated self-praise."
+  }
+]
+

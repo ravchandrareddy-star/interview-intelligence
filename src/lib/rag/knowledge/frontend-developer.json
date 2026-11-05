@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc-fe-01",
+    "jobRole": "Frontend Developer",
+    "category": "technical-skills",
+    "source": "Frontend Engineering Standards & Skill Matrix 2026",
+    "title": "Core Technical Skills and Frameworks for Frontend Developers",
+    "content": "Frontend Developers must possess deep expertise in modern JavaScript (ES6+), TypeScript, and semantic HTML5/CSS3. Key framework proficiency focuses on React.js, Next.js, Vue.js, or Angular. Essential styling technologies include Tailwind CSS, CSS Modules, Styled Components, and modern CSS layout models (Flexbox, CSS Grid). State management mastery across Redux Toolkit, Zustand, Jotai, or React Context is required for complex applications. Candidates must understand client-side rendering (CSR), server-side rendering (SSR), static site generation (SSG), and incremental static regeneration (ISR). Tooling expertise should include Webpack, Vite, Turbopack, npm/yarn/pnpm, Babel, and ESLint. Testing skills require unit and integration testing with Jest, React Testing Library, Vitest, and end-to-end testing with Playwright or Cypress."
+  },
+  {
+    "id": "doc-fe-02",
+    "jobRole": "Frontend Developer",
+    "category": "job-requirements",
+    "source": "Frontend Engineering Competencies & Requirements",
+    "title": "Technical Job Requirements for Frontend Developers",
+    "content": "Job descriptions for Frontend Developers require proven ability to convert Figma, Adobe XD, or Sketch designs into responsive, pixel-perfect, and accessible web interfaces conforming to WCAG 2.1 AA accessibility guidelines. Candidates must excel at RESTful API and GraphQL integration, asynchronous data fetching, optimistic UI updates, and caching strategies using TanStack Query (React Query) or SWR. Performance optimization is a critical requirement: candidates must optimize Core Web Vitals (LCP, FID/INP, CLS), implement dynamic imports and code splitting, lazy load images and components, and reduce JavaScript bundle sizes. Cross-browser compatibility across Chrome, Safari, Firefox, and mobile viewports is essential."
+  },
+  {
+    "id": "doc-fe-03",
+    "jobRole": "Frontend Developer",
+    "category": "industry-expectations",
+    "source": "Modern Web Development Industry Expectations",
+    "title": "Industry Expectations for Frontend Engineers",
+    "content": "Modern industry expectations for Frontend Developers extend beyond markup and styling to design system architecture, reusable component libraries, and frontend security best practices (mitigating XSS, CSRF, and Content Security Policy issues). Recruiters look for candidates who collaborate seamlessly with UX designers and backend engineers to define API contracts. Resumes should highlight quantifiable accomplishments such as 'improved Lighthouse performance score from 65 to 98', 'reduced initial page bundle by 40%', or 'built an accessible design system adopted by 5 product teams'."
+  }
+]
+

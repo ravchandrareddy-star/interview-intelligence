@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc-be-01",
+    "jobRole": "Backend Developer",
+    "category": "technical-skills",
+    "source": "Backend Engineering Competency Matrix 2026",
+    "title": "Core Technical Skills, Frameworks, and Databases for Backend Developers",
+    "content": "Backend Developers must demonstrate deep knowledge of server-side languages and runtimes such as Node.js/TypeScript, Python, Java (Spring Boot), Go, or C# (.NET Core). Fundamental architectural knowledge includes RESTful API design, GraphQL, gRPC, and microservices architecture. Strong mastery of relational databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Redis, Cassandra, DynamoDB) is essential, including indexing strategies, transactions (ACID properties), query optimization, connection pooling, and database migration tooling (Prisma, TypeORM, Flyway). Caching architectures with Redis or Memcached and message broker/event streaming platforms such as Apache Kafka, RabbitMQ, or AWS SQS are vital for asynchronous processing."
+  },
+  {
+    "id": "doc-be-02",
+    "jobRole": "Backend Developer",
+    "category": "job-requirements",
+    "source": "Backend Engineering Role Requirements & Standards",
+    "title": "Technical Job Requirements for Backend Developers",
+    "content": "Backend engineering roles require proven competency in developing secure, high-throughput, low-latency distributed systems. Requirements include implementing robust authentication and authorization systems (OAuth 2.0, OpenID Connect, JWT, RBAC), rate limiting, data encryption in transit and at rest, and input validation to prevent SQL injection and DDoS attacks. Candidates must be proficient in cloud platforms (AWS, GCP, or Azure), serverless architectures, Docker containerization, and Kubernetes container orchestration. Continuous monitoring, logging, and tracing using tools like ELK Stack, Grafana, Prometheus, or Datadog are required to uphold high service level agreements (SLAs and 99.99% uptime)."
+  },
+  {
+    "id": "doc-be-03",
+    "jobRole": "Backend Developer",
+    "category": "industry-expectations",
+    "source": "Distributed Systems & Cloud Backend Standards",
+    "title": "Industry Expectations for Backend Engineers",
+    "content": "Industry standards demand backend developers who design for resilience, fault tolerance, and horizontal scalability. Engineers must understand circuit breakers, retry policies with exponential backoff, eventual consistency, distributed transactions (Saga pattern), and database sharding/replication. Hiring managers seek evidence of measurable impact, such as 'designed asynchronous order processing pipeline reducing API latency by 65%', 'scaled microservices to handle 50k requests per second during peak traffic', or 'optimized PostgreSQL queries decreasing p99 response times from 1.2s to 120ms'."
+  }
+]
+

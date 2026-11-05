@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc-fs-01",
+    "jobRole": "Full Stack Developer",
+    "category": "technical-skills",
+    "source": "Full Stack Engineering Standards & Frameworks 2026",
+    "title": "Core Technical Skills Across the Stack for Full Stack Developers",
+    "content": "Full Stack Developers require holistic technical proficiency bridging client, server, and data layers. On the client side, proficiency in modern React, Next.js, TypeScript, state management, and responsive CSS/Tailwind is essential. On the server side, mastery of Node.js/Express, Python/FastAPI/Django, or Java/Go with REST/GraphQL APIs is required. Database competency spans both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis), with ORMs like Prisma or Mongoose. Full Stack engineers must understand full-stack meta-frameworks (Next.js App Router, Remix), server actions, API routing, server-side caching, and end-to-end type safety (tRPC, Zod). DevOps tooling includes Docker, CI/CD pipelines, and cloud hosting platforms like Vercel, AWS, or GCP."
+  },
+  {
+    "id": "doc-fs-02",
+    "jobRole": "Full Stack Developer",
+    "category": "job-requirements",
+    "source": "Full Stack Developer Competencies & Hiring Criteria",
+    "title": "Technical Job Requirements for Full Stack Developers",
+    "content": "Full Stack Developer job requirements prioritize individuals who can take a product feature from user story through UI design implementation, backend API development, database schema modeling, and production deployment. Candidates must handle authentication flows (NextAuth, Firebase Auth, JWT), secure session management, role-based access control, file storage integration (S3, Cloudinary), and third-party webhook integrations (Stripe, Twilio). Testing requirements encompass end-to-end full-stack integration tests, contract testing, and performance profiling across both client bundle size and server response latencies."
+  },
+  {
+    "id": "doc-fs-03",
+    "jobRole": "Full Stack Developer",
+    "category": "industry-expectations",
+    "source": "Modern Product Engineering Industry Expectations",
+    "title": "Industry Expectations for Full Stack Engineers",
+    "content": "Industry hiring bars for Full Stack Developers value strong product sensibility, cross-disciplinary problem solving, and end-to-end ownership. Hiring managers evaluate candidates on their ability to build complete MVPs, streamline architecture to avoid unnecessary complexity, and bridge the gap between design requirements and database capabilities. High-performing resumes demonstrate end-to-end ownership: 'architected and launched a real-time analytics portal from Figma mockups to Next.js, Node.js, and MongoDB backend supporting 10,000 active users'."
+  }
+]
+
